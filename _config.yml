@@ -1,13 +1,13 @@
 # Site settings
 title: Enby Utopia
 SEOTitle: Die Basisstation -- THE NONBINARY UTOPIA
-header-img: img/home-bg-bluestars.jpg
-email: klovien@gmail.com
-description: "Easy to learn, no more hard work to recite vocabulary."
+header-img: img/enby_utopia.jpg
+email: enbyutopia@163.com
+description: "The future is beyond the binary."
 keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
-url: "https://globien.github.io"          # your host, for absolute URL
+url: "https://enbyutopia.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
+github_repo: "https://github.com/enbyutopia/enbyutopia.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
