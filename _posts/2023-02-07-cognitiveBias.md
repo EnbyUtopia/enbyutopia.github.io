@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Congnative Bias
+title:      Cognative Bias
 subtitle:   认知偏差无处不在，还能套娃
 date:       2023-02-07
 author:     Uichi Zei
